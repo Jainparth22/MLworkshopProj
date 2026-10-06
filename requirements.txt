@@ -1,0 +1,12 @@
+flask
+pandas
+scikit-learn
+joblib
+matplotlib
+pyspellchecker
+python-whois
+requests
+reportlab
+extract-msg
+gunicorn
+redis
